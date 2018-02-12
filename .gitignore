@@ -1,0 +1,4 @@
+*.ex
+
+*plot*
+*tmp_build_dir*
